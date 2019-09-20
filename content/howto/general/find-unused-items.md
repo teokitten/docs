@@ -30,7 +30,7 @@ Keep in mind that by deleting any unused items the actual list of unused items m
 Modules downloaded from the Appstore might contain a lot of unused items. If you remove those items and the module is updated later, those items will be back in your model. It is advised that you don't remove any unused items from an Appstore module.
 
 Any objects which are excluded from the project won't show up in the unused items list.
-
+b
 ## 3 Setting Unused Objects to "Used" 
 
 Some pages and microflows are only used from Java code and will be listed as an unused item because Studio Pro can't look into Java source code. To prevent anyone from removing these objects you can mark the page or microflow as "used." In this part of the How-To you will learn how to do so.
