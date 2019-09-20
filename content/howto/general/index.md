@@ -16,3 +16,4 @@ Learn some basics about starting to model a Mendix app with the introductory how
 * [Show the Project Directory in Explorer](show-project-directory) – explains how to open the project directory in your hard drive to amend or add files
 * [Implement Best Practices for Development](dev-best-practices) – provides guidelines for adopting consistent naming and modeling conventions while developing your Mendix apps
 * [Implement Community Best Practices for App Performance](community-best-practices-for-app-performance) – presents best practices created by and for the Mendix community on how to improve your app's performance
+* [Create a Simple App](create-app) – describes the steps to create a simple Tools app
